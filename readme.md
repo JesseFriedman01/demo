@@ -1,3 +1,5 @@
+New line for diff
+
 #Demo Project README
 
 NEW UPDATE
