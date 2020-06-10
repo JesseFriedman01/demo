@@ -1,3 +1,7 @@
+On a branch
+
+New update for branching
+
 New line for diff
 
 #Demo Project README
